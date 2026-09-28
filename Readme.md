@@ -29,7 +29,7 @@ Praktikum ini bertujuan untuk mempelajari:
 Pada praktikum ini dibuat tabel untuk menampilkan data mahasiswa.
 
 ### Screenshot Hasil di Browser
-![Latihan 1 Browser](media/screenshot/latihan1browser.png)
+![Latihan 1 Browser](Screenshot%202026-09-28%20134513.png)
 
 ---
 
@@ -43,10 +43,10 @@ Tabel dikembangkan menggunakan:
 - `colspan`
 
 ### Screenshot di VS code
-![Latihan 2 VS code](media/screenshot/latihan2vsc.png)
+![Latihan 2 VS code](Screenshot%202026-09-28%20150314.png)
 
 ### Screenshot Hasil di Browser
-![Latihan 2 Browser](media/screenshot/latihan2browser.png)
+![Latihan 2 Browser](Screenshot%202026-09-28%20150941.png)
 
 ---
 
@@ -63,10 +63,10 @@ Input yang digunakan:
 - Tombol Reset
 
 ### Screenshot di VS code
-![Latihan 3 VS code](media/screenshot/latihan3vsc.png)
+![Latihan 3 VS code](<Screenshot 2026-09-28 151325.png>)
 
 ### Screenshot Hasil di Browser
-![Latihan 3 Browser](media/screenshot/latihan3browser.png)
+![Latihan 3 Browser](<Screenshot 2026-09-28 151352.png>)
 
 ---
 
@@ -81,10 +81,10 @@ Contoh:
 - Keahlian JavaScript
 
 ### Screenshot di VS code
-![Latihan 4 VS code](media/screenshot/latihan4vsc.png)
+![Latihan 4 VS code](<Screenshot 2026-09-28 151554.png>)
 
 ### Screenshot Hasil di Browser
-![Latihan 4 Browser](media/screenshot/latihan4browser.png)
+![Latihan 4 Browser](<Screenshot 2026-09-28 152135.png>)
 
 ---
 
@@ -95,11 +95,10 @@ Pada latihan ini digunakan:
 - `<textarea>` untuk memasukkan Alamat.
 
 ### Screenshot di VS code
-![Select dan Textarea](media/screenshot/select-textarea-vsc.png)
+![Select dan Textarea](<Screenshot 2026-09-28 151833.png>)
 
 ### Screenshot Hasil di Browser
-![Select dan Textarea Browser](media/screenshot/select-textarea-browser.png)
-
+![Select dan Textarea Browser](<Screenshot 2026-09-28 152005.png>)
 ---
 
 ## 6. Validasi Form
@@ -114,7 +113,7 @@ Validasi dasar diterapkan menggunakan beberapa atribut HTML, yaitu:
 Validasi digunakan agar data yang dimasukkan pengguna sesuai dengan ketentuan form.
 
 ### Hasil Praktikum
-![Validasi Form](media/screenshot/validasi-form.png)
+![Validasi Form](<Screenshot 2026-09-28 152602.png>)
 
 ---
 
@@ -132,7 +131,7 @@ Elemen yang digunakan:
 - `<footer>`
 
 ### Hasil Praktikum
-![Semantic HTML](media/screenshot/semantic-html.png)
+![Semantic HTML](<Screenshot 2026-09-28 152847.png>)
 
 ---
 
@@ -145,7 +144,7 @@ Pada praktikum ini ditambahkan elemen multimedia berupa audio dan video mengguna
 File multimedia disimpan di dalam folder `media`.
 
 ### Hasil Praktikum
-![Multimedia](media/screenshot/multimedia.png)
+![Multimedia](<Screenshot 2026-09-28 152903.png>)
 
 ---
 
@@ -167,8 +166,7 @@ File proyek mini terdapat pada:
 `biodata.html`
 
 ### Hasil Proyek Mini
-![Biodata Mahasiswa](media/screenshot/biodata.png)
-
+![Biodata Mahasiswa](<Screenshot 2026-09-28 152935.png>)
 ---
 
 ## Pertanyaan dan Jawaban
